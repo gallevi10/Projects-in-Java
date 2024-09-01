@@ -19,36 +19,6 @@ The heap supports several operations, such as insertion, extraction of the maxim
 3. **User Interaction**:
    - The program includes a full and limited menu for interacting with the heap, allowing users to select and perform different operations.
 
-## Interaction Methods and Helpers
-
-- **`printInput(MaxMinHeap heap)`**:
-  - Prints the user's input numbers for the Max-Min Heap.
-
-- **`printHeap(MaxMinHeap heap)`**:
-  - Prints the heap's elements in array form.<br>
-  If the heap is empty, an appropriate message is displayed.
-
-- **`printSortedArr(MaxMinHeap heap, int sortedArrLen)`**:
-  - Prints the sorted numbers in the heap after the `heapSort()` method is called.
-
-- **`printIntDou(double[] arr, int length)`**:
-  - Helper method for printing elements in integer form if they are integers, or in double form otherwise.
-
-- **`isInt(double num)`**:
-  - Helper method that returns `true` if the given number is an integer, `false` otherwise.
-
-- **`play()`**:
-  - Displays a menu and waits for user input to either build a heap or exit the program.
-
-- **`buildUserHeap(MaxMinHeap userHeap)`**:
-  - Prompts the user to enter keys for the Max-Min Heap and builds the heap using the inputs.
-
-- **`limitedMenu(MaxMinHeap userHeap)`**:
-  - Displays a limited menu for user interaction, allowing the user to build a heap or insert a value.
-
-- **`fullMenu(MaxMinHeap userHeap)`**:
-  - Displays a full menu for user interaction, allowing for various operations on the Max-Min Heap, including building, inserting, extracting, deleting, and sorting.
-
 ## Running the Program
 
 To run the program, execute the `main` method in the `MaxMinHeap` class.<br>
