@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Java program implements a **Max-Min Heap**, a specialized binary heap structure where elements at even levels of the tree are greater than or equal to their descendants, and elements at odd levels are less than or equal to their descendants.
+This Java program implements a **Max-Min Heap**, a specialized binary heap structure where elements at even levels of the tree are greater than or equal to their descendants, and elements at odd levels are less than or equal to their descendants.<br>
 The heap supports several operations, such as insertion, extraction of the maximum and minimum values, deletion of specific elements, and sorting.
 
 ## Features
@@ -25,7 +25,8 @@ The heap supports several operations, such as insertion, extraction of the maxim
   - Prints the user's input numbers for the Max-Min Heap.
 
 - **`printHeap(MaxMinHeap heap)`**:
-  - Prints the heap's elements in array form. If the heap is empty, an appropriate message is displayed.
+  - Prints the heap's elements in array form.<br>
+  If the heap is empty, an appropriate message is displayed.
 
 - **`printSortedArr(MaxMinHeap heap, int sortedArrLen)`**:
   - Prints the sorted numbers in the heap after the `heapSort()` method is called.
@@ -50,7 +51,7 @@ The heap supports several operations, such as insertion, extraction of the maxim
 
 ## Running the Program
 
-To run the program, execute the `main` method in the `MaxMinHeap` class.
+To run the program, execute the `main` method in the `MaxMinHeap` class.<br>
 The program will display a menu where you can choose to build a heap, insert values, extract the maximum or minimum, delete a value, sort the heap, or exit the program.
 
 ## Error Handling
