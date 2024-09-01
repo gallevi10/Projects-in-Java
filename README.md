@@ -1,4 +1,4 @@
-# Max-Min Heap project
+# Max-Min Heap Project
 
 ## Overview
 
