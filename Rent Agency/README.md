@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Rent Agency project is a Java application designed to handle car rentals.
+The Rent Agency project is a Java application designed to handle car rentals.<br>
 It includes classes for representing cars, dates, and rental agreements, providing functionality for managing and processing rental transactions.
 
 ## Classes
