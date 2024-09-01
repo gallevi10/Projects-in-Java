@@ -2,7 +2,8 @@
 
 ## Overview
 
-This Java program implements a **Max-Min Heap**, a specialized binary heap structure where elements at even levels of the tree are greater than or equal to their descendants, and elements at odd levels are less than or equal to their descendants. The heap supports several operations, such as insertion, extraction of the maximum and minimum values, deletion of specific elements, and sorting.
+This Java program implements a **Max-Min Heap**, a specialized binary heap structure where elements at even levels of the tree are greater than or equal to their descendants, and elements at odd levels are less than or equal to their descendants.
+The heap supports several operations, such as insertion, extraction of the maximum and minimum values, deletion of specific elements, and sorting.
 
 ## Features
 
