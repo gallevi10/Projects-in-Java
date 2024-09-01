@@ -50,7 +50,8 @@ The heap supports several operations, such as insertion, extraction of the maxim
 
 ## Running the Program
 
-To run the program, execute the `main` method in the `MaxMinHeap` class. The program will display a menu where you can choose to build a heap, insert values, extract the maximum or minimum, delete a value, sort the heap, or exit the program.
+To run the program, execute the `main` method in the `MaxMinHeap` class.
+The program will display a menu where you can choose to build a heap, insert values, extract the maximum or minimum, delete a value, sort the heap, or exit the program.
 
 ## Error Handling
 
