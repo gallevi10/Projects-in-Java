@@ -1,4 +1,4 @@
-# Max-Min Heap Java Implementation project
+# Max-Min Heap project
 
 ## Overview
 
