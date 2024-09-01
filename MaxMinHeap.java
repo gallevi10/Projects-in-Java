@@ -1,6 +1,5 @@
 
 /**
- * Maman 13
  * User friendly Max-Min heap creator
  *
  * @author Gal Levi
